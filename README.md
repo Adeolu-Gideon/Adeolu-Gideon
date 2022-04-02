@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adeolu-Gideon, a fronted and WordPress developer.
+- 👋 Hi, I’m @Adeolu-Gideon, a frontend web designer and WordPress developer.
 - 👀 I’m interested in Fullstack Software Engineering.
 - 🌱 I’m currently learning backend engineering.
 - 💞️ I’m looking to collaborate on websites project.
