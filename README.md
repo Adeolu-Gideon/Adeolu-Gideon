@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Adeolu-Gideon, a frontend web developer and WordPress developer.
-- 👀 I’m interested in Fullstack Software Engineering.
-- 🌱 I’m currently learning backend engineering.
+- 👋 Hi, I’m @Adeolu Gideon, a software developer and UI/UX designer.
 - 💞️ I’m looking to collaborate on websites project.
 - 📫 How to reach me https://linkedin.com/in/gideonhardey
-- Check my portfolio @https://adeolugideon.xyz
 
 <!---
 Adeolu-Gideon/Adeolu-Gideon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
